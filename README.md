@@ -7,3 +7,5 @@ Uparei neste repositório as aulas/exercícios que fiz na plataforma DIO durante
 **11/06/2022** - Adicionado a primeira parte dos fundamentos flexbox
 
 **12/06/2022** - Adicionado a segunda parte dos fundamentos flexbox
+
+**12/06/2022** - Adicionado o projeto integrador flexbox e o modelo base 
