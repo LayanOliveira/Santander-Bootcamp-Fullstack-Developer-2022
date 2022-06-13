@@ -1,4 +1,4 @@
-# Este é o modelo base para a aula, o projeto está na pasta "projeto"
+# Este é o modelo base para a aula, o projeto está na pasta "Projeto"
 
 Neste repositório eu coloquei apenas o modelo base para meus estudos.
 
