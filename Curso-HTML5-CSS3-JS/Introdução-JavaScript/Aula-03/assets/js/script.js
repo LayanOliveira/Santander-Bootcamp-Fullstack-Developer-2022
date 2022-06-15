@@ -2,7 +2,7 @@ var currentNumberWrapper = document.getElementById("currentNumber")
 var currentNumber = 0
 
 function increment() {
-    currentNumber = currentNumber + 1
+    if (currentNumber <= 9) { currentNumber = currentNumber + 1 }
     currentNumberWrapper.innerHTML = currentNumber
     if (currentNumber >= 1) {
         currentNumberWrapper.style.color = "blue"
@@ -12,7 +12,7 @@ function increment() {
 }
 
 function decrement() {
-    currentNumber = currentNumber - 1
+    if (currentNumber >= -9) { currentNumber = currentNumber - 1 }
     currentNumberWrapper.innerHTML = currentNumber
     if (currentNumber <= -1) {
         currentNumberWrapper.style.color = "red"
