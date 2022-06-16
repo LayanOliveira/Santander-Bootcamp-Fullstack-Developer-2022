@@ -7,3 +7,5 @@
 - Introdução ao JavaScript, apenas um exercício de contador HTML.
 
 - Sintaxe e Operadores, um exercício de somar e comparar números.
+
+- Variáveis e Tipos, um exercício de verificar se a frase é um palíndromo e outro substitui um valor par por 0
