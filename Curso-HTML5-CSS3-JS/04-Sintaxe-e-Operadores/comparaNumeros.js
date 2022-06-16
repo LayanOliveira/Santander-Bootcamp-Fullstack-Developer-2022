@@ -2,7 +2,6 @@ function comparaNumero(num1, num2) {
     const saoIguais = criaIguais(num1, num2)
     const asoma = saoMaior(num1, num2)
     if (num1 == null || num2 == null) { return "Favor entrar dois números" }
-    if (num1 != Number || num2 != Number) { return 'Favor entrar dois "NÚMEROS"' }
     return `${saoIguais} ${asoma}`
 }
 function criaIguais(num1, num2) {
@@ -23,4 +22,4 @@ function saoMaior(num1, num2) {
 }
 
 
-console.log(comparaNumero(a))
+console.log(comparaNumero("", ""))
