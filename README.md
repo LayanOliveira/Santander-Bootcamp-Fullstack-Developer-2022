@@ -12,4 +12,6 @@ Uparei neste repositório as aulas/exercícios que fiz na plataforma DIO durante
 
 - **13/06/2022** - Adicionado o "Projeto, Pagina inicial do Instagram"
 
-- **14/06/2022** - Adicionado o mini curso "Introdução ao JavaScript"
+- **14/06/2022** - Adicionado a primeira parte do curso de JavaScript "Introdução ao JavaScript"
+  
+- **15/06/2022** - Adicionado a segunda parte do curso de JavaScript "Sintaxe e Operadores"
