@@ -155,6 +155,7 @@ header .menu {
     font-size: 12px;
     text-decoration: none;
     font-weight: 700;
+    margin: 50px;
 }
 
 .item-servico p {
