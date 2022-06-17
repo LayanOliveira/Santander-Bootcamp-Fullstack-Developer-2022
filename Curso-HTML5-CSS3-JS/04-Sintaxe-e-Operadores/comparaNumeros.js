@@ -22,4 +22,4 @@ function saoMaior(num1, num2) {
 }
 
 
-console.log(comparaNumero("", ""))
+console.log(comparaNumero(11, 5))
