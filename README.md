@@ -17,3 +17,6 @@ Uparei neste repositório as aulas/exercícios que fiz na plataforma DIO durante
 - **15/06/2022** - Adicionado a segunda parte do curso de JavaScript "Sintaxe e Operadores"
 
 - **16/06/2022** - Adicionado a terceira parte do curso de JavaScript "Variáveis e Tipos"
+
+- **17/06/2022** - Adicionado a quarta parte do curso de JavaScript "Funções"
+- 
