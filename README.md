@@ -3,7 +3,7 @@
 Uparei neste repositório as aulas/exercícios que fiz na plataforma [DIO](https://digitalinnovation.one/) durante o Bootcamp Fullstack Developer do Santander.
 
 - **10/06/2022** - Adicionado as aulas de 01 a 10 de "HTML5 e CSS3" básico
-
+ 
 - **11/06/2022** - Adicionado a "Primeira parte dos Fundamentos Flexbox"
 
 - **12/06/2022** - Adicionado a "Segunda parte dos Fundamentos Flexbox"
@@ -19,3 +19,7 @@ Uparei neste repositório as aulas/exercícios que fiz na plataforma [DIO](https
 - **16/06/2022** - Adicionado a terceira parte do curso de JavaScript "Variáveis e Tipos"
 
 - **17/06/2022** - Adicionado a quarta parte do curso de JavaScript "Funções"
+
+- **18/06/2022** - Adicionado a quinta parte do curso de JavaScript "Coleções"
+
+- **18/06/2022** - Adicionado a sexta parte do curso de JavaScript "Map, Filter e Reduce"
