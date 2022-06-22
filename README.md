@@ -1,6 +1,6 @@
 # Santander Bootcamp Fullstack Developer 2022
 
-Uparei neste repositório as aulas/exercícios que fiz na plataforma [DIO](https://digitalinnovation.one/) durante o Bootcamp Fullstack Developer do Santander.
+Uparei neste repositório as aulas/exercícios que fiz na plataforma [DIO](https://digitalinnovation.one/) durante o [Bootcamp Fullstack Developer do Santander](https://web.dio.me/track/33c858ab-35fb-4170-9193-a9eef8c2ba25).
 
 - **10/06/2022** - Adicionado as aulas de 01 a 10 de "HTML5 e CSS3" básico
  
