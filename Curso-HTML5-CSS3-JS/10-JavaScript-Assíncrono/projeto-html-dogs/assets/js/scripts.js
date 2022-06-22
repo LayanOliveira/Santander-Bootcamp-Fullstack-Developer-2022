@@ -24,10 +24,10 @@ loadImg();
 console.log(getDogs())
 
 // // Solução 2
-// const BASE_URL = 'https://thatcopy.pw/catapi/rest/'
-// const catBtn = document.getElementById('change-cat')
+// const BASE_URL = 'https://dog.ceo/api/breeds/image/random'
+// const dogBtn = document.getElementById('change-dog')
 
-// const getCats = async () => {
+// const getDogs = async () => {
 //     const data = await fetch(BASE_URL)
 //         .then(res => res.json())
 //         .catch(e => console.log(e))
@@ -35,10 +35,10 @@ console.log(getDogs())
 // }
 
 // const loadImg = async () => {
-//     const catImg = document.getElementById('cat')
-//     catImg.src = await getCats()
+//     const dogImg = document.getElementById('dog')
+//     dogImg.src = await getDogs()
 // }
 
-// catBtn.addEventListener('click', loadImg)
+// dogBtn.addEventListener('click', loadImg)
 
 // loadImg()
