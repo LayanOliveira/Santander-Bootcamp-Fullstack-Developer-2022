@@ -26,6 +26,6 @@ Uparei neste repositório as aulas/exercícios que fiz na plataforma [DIO](https
 
 - **19/06/2022** - Adicionado a sétima parte do curso de JavaScript "Debugging e Error Handling"
 
-- **20/06/2022** - Adicionado a oitava parte do curso de JavaScript "JavaScript Assíncrono"
+- **21/06/2022** - Adicionado a oitava parte do curso de JavaScript "JavaScript Assíncrono"
 
-- **20/06/2022** - Adicionado a nona parte do curso de JavaScript "Orientação a objetos"
+- **22/06/2022** - Adicionado a nona parte do curso de JavaScript "Orientação a objetos"
