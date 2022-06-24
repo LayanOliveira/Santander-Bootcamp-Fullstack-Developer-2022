@@ -29,3 +29,7 @@ Uparei neste repositório as aulas/exercícios que fiz na plataforma [DIO](https
 - **21/06/2022** - Adicionado a oitava parte do curso de JavaScript "JavaScript Assíncrono"
 
 - **22/06/2022** - Adicionado a nona parte do curso de JavaScript "Orientação a objetos"
+
+- **23/06/2022** - Adicionado a décima parte do curso de JavaScript "Trabalhando com Módulos em JavaScript"
+
+- **24/06/2022** - Adicionado a décima primeira parte do curso de JavaScript "Manipulando a D.O.M. com JavaScript"
