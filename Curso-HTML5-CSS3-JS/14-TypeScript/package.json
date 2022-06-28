@@ -1,0 +1,16 @@
+{
+  "name": "14-typescript",
+  "version": "1.0.0",
+  "source": "index.ts",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "parcel": "^2.6.2"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
