@@ -33,3 +33,7 @@ Uparei neste repositório as aulas/exercícios que fiz na plataforma [DIO](https
 - **23/06/2022** - Adicionado a décima parte do curso de JavaScript "Trabalhando com Módulos em JavaScript"
 
 - **24/06/2022** - Adicionado a décima primeira parte do curso de JavaScript "Manipulando a D.O.M. com JavaScript"
+
+- **27/06/2022** - Adicionado aulas de TypeScript
+
+- **29/06/2022** - Adicionado o projeto TypeScript
