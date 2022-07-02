@@ -8,18 +8,33 @@ TypeScript
 1. "npm install -g typescript" (O -g é para instalar globalmente, se possível)
 2. "npm install typescript" (Caso contrário)
 
-## Configurando o lite server e o watch no .json
+## Configurando o package.json
 
 "scripts": {
-"start": "lite-server",
+"start": "lite-server", 
 "watch": "tsc --watch"
 }
+
+## Configurando o tsconfig.json
+Em Basic Options é interessante colocar... Para organização:
+
+Emit:
+"outDir": "dist"
+
+Modules:
+"rootDir": "src"
+
+Antes da ultima bracket "}" colocar:
+"include":["src/**/*.ts"] // Se não for * é /""/".ts
+
+"noImplicityAny": true // Para de checar any
+"strictNullChecks": true // Para de checar null, Caso não queira se preocupar com Nulos
 
 ## Lite Server
 
 Para startar o lite-server digite "npm start" no terminal, ou qualquer comando que você tenha configurado no package.json
 
-Ligar o watch: "tsc --watch"
+Ligar o watch: "npm run watch" ou "tsc --watch"
 Criar arquivo TypeScript: "tsc nome_do_arquivo.ts"
 
 # Aula de Typescript da Take na plataforma DIO
