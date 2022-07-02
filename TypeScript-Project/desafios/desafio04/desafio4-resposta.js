@@ -1,6 +1,4 @@
 "use strict";
-// Um desenvolvedor tentou criar um projeto que consome a base de dados de filme do TMDB para criar um organizador de filmes, mas desistiu 
-// pois considerou o seu código inviável. Você consegue usar typescript para organizar esse código e a partir daí aprimorar o que foi feito?
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -10,14 +8,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-// A ideia dessa atividade é criar um aplicativo que: 
-//    - Busca filmes
-//    - Apresenta uma lista com os resultados pesquisados
-//    - Permite a criação de listas de filmes e a posterior adição de filmes nela
-// Todas as requisições necessárias para as atividades acima já estão prontas, mas a implementação delas ficou pela metade (não vou dar tudo de graça).
-// Atenção para o listener do botão login-button que devolve o sessionID do usuário
-// É necessário fazer um cadastro no https://www.themoviedb.org/ e seguir a documentação do site para entender como gera uma API key https://developers.themoviedb.org/3/getting-started/introduction
-// Consegui fazer logar e pesquisar os filmes, mas não criar listas e adicionar filmes a ela
+Object.defineProperty(exports, "__esModule", { value: true });
 let apiKey;
 let requestToken;
 let username;
@@ -93,8 +84,8 @@ class HttpClient {
                     });
                 };
                 if (body) {
-                    let res = request.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-                    body = JSON.stringify(res);
+                    let resposta = request.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+                    body = JSON.stringify(resposta);
                 }
                 request.send(body);
             });
@@ -186,17 +177,4 @@ function pegarLista() {
         });
         console.log(result);
     });
-}
-{ /* <div style="display: flex;">
-  <div style="display: flex; width: 300px; height: 100px; justify-content: space-between; flex-direction: column;">
-      <input id="login" placeholder="Login" onchange="preencherLogin(event)">
-      <input id="senha" placeholder="Senha" type="password" onchange="preencherSenha(event)">
-      <input id="api-key" placeholder="Api Key" onchange="preencherApi()">
-      <button id="login-button" disabled>Login</button>
-  </div>
-  <div id="search-container" style="margin-left: 20px">
-      <input id="search" placeholder="Escreva...">
-      <button id="search-button">Pesquisar Filme</button>
-  </div>
-</div>*/
 }
