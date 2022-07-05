@@ -1,3 +1,7 @@
 .crop {
     overflow: hidden;
 }
+
+#defaultdiv {
+    width: 100px
+}
