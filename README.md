@@ -1,39 +1,41 @@
 # Santander Bootcamp Fullstack Developer 2022
 
-Uparei neste repositório as aulas/exercícios que fiz na plataforma [DIO](https://digitalinnovation.one/) durante o [Bootcamp Fullstack Developer do Santander](https://web.dio.me/track/33c858ab-35fb-4170-9193-a9eef8c2ba25).
+I'll upload to this repository all the classes and exercises I did on [DIO's](https://digitalinnovation.one/) platform during the [Santander's Bootcamp, Fullstack Developer](https://web.dio.me/track/33c858ab-35fb-4170-9193-a9eef8c2ba25).
 
-- **10/06/2022** - Adicionado as aulas de 01 a 10 de "HTML5 e CSS3" básico
+- **10/06/2022** - Added "HTML5 and CSS3" basics
  
-- **11/06/2022** - Adicionado a "Primeira parte dos Fundamentos Flexbox"
+- **11/06/2022** - Added first part of Flexbox "Flexbox foundations 1"
 
-- **12/06/2022** - Adicionado a "Segunda parte dos Fundamentos Flexbox"
+- **12/06/2022** - Added second part of Flexbox "Flexbox foundations 2"
 
-- **12/06/2022** - Adicionado o "Projeto, Integrador Flexbox" e o modelo base 
+- **12/06/2022** - Added "Flexbox Integrator Project" and base model 
 
-- **13/06/2022** - Adicionado o "Projeto, Pagina inicial do Instagram"
+- **13/06/2022** - Added "Project, Instagram login page"
 
-- **14/06/2022** - Adicionado a primeira parte do curso de JavaScript "Introdução ao JavaScript"
+- **14/06/2022** - Added the first part of the JavaScript course "Introduction to JavaScript"
   
-- **15/06/2022** - Adicionado a segunda parte do curso de JavaScript "Sintaxe e Operadores"
+- **15/06/2022** - Added the second part of the JavaScript course "Syntax and Operators"
 
-- **16/06/2022** - Adicionado a terceira parte do curso de JavaScript "Variáveis e Tipos"
+- **16/06/2022** - Added the third part of the JavaScript course "Types and Variables"
 
-- **17/06/2022** - Adicionado a quarta parte do curso de JavaScript "Funções"
+- **17/06/2022** - Added the fourth part of the JavaScript course "Functions"
 
-- **18/06/2022** - Adicionado a quinta parte do curso de JavaScript "Coleções"
+- **18/06/2022** - Added the fifth part of the JavaScript course "Collections"
 
-- **18/06/2022** - Adicionado a sexta parte do curso de JavaScript "Map, Filter e Reduce"
+- **18/06/2022** - Added the sixth part of the JavaScript course "Map, Filter e Reduce"
 
-- **19/06/2022** - Adicionado a sétima parte do curso de JavaScript "Debugging e Error Handling"
+- **19/06/2022** - Added the seventh part of the JavaScript course "Debugging and Error Handling"
 
-- **21/06/2022** - Adicionado a oitava parte do curso de JavaScript "JavaScript Assíncrono"
+- **21/06/2022** - Added the eighth part of the JavaScript course "Async Await"
 
-- **22/06/2022** - Adicionado a nona parte do curso de JavaScript "Orientação a objetos"
+- **22/06/2022** - Added the ninth part of the JavaScript course "Oriented Object"
 
-- **23/06/2022** - Adicionado a décima parte do curso de JavaScript "Trabalhando com Módulos em JavaScript"
+- **23/06/2022** - Added the tenth part of the JavaScript course "Modules"
 
-- **24/06/2022** - Adicionado a décima primeira parte do curso de JavaScript "Manipulando a D.O.M. com JavaScript"
+- **24/06/2022** - Added the eleventh part of the JavaScript course "D.O.M."
 
-- **27/06/2022** - Adicionado as aulas de "TypeScript"
+- **27/06/2022** - Added "TypeScript" classes
 
-- **29/06/2022** - Adicionado mais aulas de TypeScript e o "Projeto TypeScript"
+- **29/06/2022** - Added the "TypeScript Project"
+
+- **02/07/2022** - Added the first Angular class "Introduction to Angular"

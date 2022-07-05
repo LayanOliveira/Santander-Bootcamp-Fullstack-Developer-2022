@@ -1,16 +1,16 @@
-**Instalando o Angular CLI**
+**Installing Angular CLI**
 
 `npm install -g @angular/cli`
 
-Na pasta do projeto digitar:
-`ng new course-manager` (Substitui o "course-manager" pelo nome do projeto)
+On project's folder, type:
+`ng new course-manager` (replace "course-manager" for the project's name)
 angular routing? `N` 
 stylesheet format? `CSS`
 
-Dentro de course-manager digitar:
-`ng serve` / Ira carregar a aplicação e pesquisar o main.ts e carregar todos os componentes referencia
+On course-manager type:
+`ng serve` / It will load the application and search main.ts then it will load all reference components
 
-Na pasta do projeto, digitar:
+On project's folder, type:
 `npm install bootstrap`
 
 # Course Manager
