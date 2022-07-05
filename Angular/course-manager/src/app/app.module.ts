@@ -3,6 +3,8 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 
+import { HttpClientModule } from '@angular/common/http';
+
 import { AppComponent } from './app.component';
 import { CourseListComponent } from './courses/course-list.component';
 import { StarComponent } from './star/star.component';
@@ -22,8 +24,9 @@ import { CourseInfoComponent } from './courses/course-info.component';
     CourseInfoComponent
   ],
   imports: [
-    BrowserModule, 
+    BrowserModule,
     FormsModule,
+    HttpClientModule,
     RouterModule.forRoot([
       {
         path: 'courses', component: CourseListComponent // não faz mais sentido usar o selector, pois estamos trabalhando com rotas
@@ -35,7 +38,7 @@ import { CourseInfoComponent } from './courses/course-info.component';
         path: '', redirectTo: 'courses', pathMatch: 'full'
       },
       {
-        path: '**' , component: Error404Component
+        path: '**', component: Error404Component
       }
     ])
   ],
