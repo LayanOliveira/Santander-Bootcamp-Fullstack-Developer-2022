@@ -4,7 +4,8 @@ import { CourseService } from "./course.service";
 
 @Component({
     // selector: 'app-course-list', não faz mais sentido usar o selector, pois estamos trabalhando com rotas
-    templateUrl: './course-list.component.html'
+    templateUrl: './course-list.component.html',
+    styleUrls: ['./course-list.component.css']
 })
 
 export class CourseListComponent implements OnInit {

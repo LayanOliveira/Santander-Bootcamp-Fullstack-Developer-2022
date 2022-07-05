@@ -31,7 +31,7 @@
                 <app-sar [rating]="course.rating"></app-sar>
             </td>
             <td>
-                <a [routerLink]="['/courses/info', course.id]" class="btn btn-primary">Edit</a>
+                <a [routerLink]="['/courses/info', course.id]" class="btn btn-primary" id="primary">Edit</a>
                 <button (click)="deleteById(course.id)" class="btn btn-danger" type="button">Delete</button>
             </td>
         </tr>
