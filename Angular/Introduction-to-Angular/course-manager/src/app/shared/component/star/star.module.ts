@@ -1,7 +1,7 @@
 import { NgModule } from "@angular/core";
 import { StarComponent } from "./star.component";
 
-@NgModule({
+@NgModule ({
     declarations: [
         StarComponent
     ],

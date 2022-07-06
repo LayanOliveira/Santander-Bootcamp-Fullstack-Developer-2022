@@ -1,0 +1,1 @@
+The shared folder is used for generic components that doesn't take too much resources
