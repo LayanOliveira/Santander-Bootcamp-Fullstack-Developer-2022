@@ -1,18 +1,16 @@
-# Coleções Chaveadas
-
-Este repositório contém a atividade prática do Curso "Coleções Chaveadas", que faz parte do Basecamp de JavaScript ministrado pela Stephany Nusch na plataforma [Digital Innovation One](https://digitalinnovation.one/).
+# Collections
 
 ## Atividade 1: Maps
 
-Crie uma função que retorna o nome dos membros de um Map que tem o papel 'ADMIN' no sistema.
+Create a function that returns the name of members of a Map with the 'ADMIN' role on the system.
 
-1. Crie uma função `getAdmins` que recebe um `Map`;
-2. Crie um Map e popule-o com nomes de usuários e seus papeis no sistema. (Ex: 'Luiz' => 'Admin');
-3. Dentro de `getAdmins`, utilize o loop `for...of` para retornar uma lista com os nomes dos usuários que são administradores.
+1. Create a function `getAdmins` which receives a `Map`;
+2. Create a Map and populate it with user's names and their roles on the system. (Ex: 'Luiz' => 'Admin');
+3. Inside `getAdmins`, utilize a loop `for...of` to return a list with names of users with the Admin role.
 
 ## Atividade 2: Sets
 
-Dado o array `[30, 30, 40, 5, 223, 2049, 3034, 5]`, retorne outro array apenas com valores únicos.
+Given the array `[30, 30, 40, 5, 223, 2049, 3034, 5]`, return another array with unique values.
 
 # Créditos 
 

@@ -1,18 +1,16 @@
 # Variáveis e Tipos
 
-Neste repositório você encontrará a atividade prática proposta pelo curso "Variáveis e Tipos" do Basecamp de JavaScript ministrado pela Stephany Nusch na plataforma [Digital Innovation One](https://digitalinnovation.one/).
+## First Task
 
-## Atividade 1
+Verify, in two different ways if a String is a palindrome.
 
-Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
+_Palindrome: A word, phrase, or sequence that reads the same backward as forward, Ex: madam, tenet or "nurses run"
 
-_Palíndromo: frase ou palavra que se pode ler, indiferentemente, da esquerda para a direita ou vice-versa (ex.: raiar, ama, ovo, radar)
+## Second task
 
-## Atividade 2
+Change every numbers in an array that is even and different from zero for zero. If the array is empty return -1.
 
-Troque todos os elementos pares e diferentes de zero de um array pelo número 0. Se o array for vazio, retorne -1.
-
-Exemplo: Input -> [1, 3, 4, 6, 80, 33, 23, 90]
+Exemple: Input -> [1, 3, 4, 6, 80, 33, 23, 90]
 
 Output -> [1, 3, 0, 0, 0, 33, 23, 0]
 
@@ -20,6 +18,6 @@ Input -> []
 
 Output -> -1
 
-# Créditos 
+# Credits 
 
-[Stebsnusch](https://github.com/stebsnusch/basecamp-javascript/tree/main/variaveis-e-tipos)
+The files on this repository are just my resolutions of the exercises proposed on the course, the original files can be found on [Stebsnusch's](https://github.com/stebsnusch/basecamp-javascript/tree/main/variaveis-e-tipos) repository.

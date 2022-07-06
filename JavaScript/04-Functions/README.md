@@ -1,25 +1,23 @@
-# Funções
+# Functions
 
-Projetos referentes ao curso "Funções" ministrado pela Stephany Nusch na plataforma [Digital Innovation One](https://digitalinnovation.one/).
+## First task: Approved students
 
-## Atividade 1: Alunos Aprovados
+1. Create a function that receives an array `students` and an number which will represent the final grade;
+2. Run through an array and populate a new auxiliary array with only the students which grade's are higher or equal to their final grade;
+3. Utilize "object destructuring" to manipulate the desired properties of each student.
 
-1. Crie uma função que recebe o array `alunos` e um número que irá representar a média final;
-2. Percorra o array e popule um novo array auxiliar apenas com os alunos cujas notas são maiores ou iguais à média final;
-3. Utilize a técnica "object destructuring" para manipular as propriedades desejadas de cada aluno.
+## Second task: This
 
-## Atividade 2: This
-
-Dada a função `calculaIdade`, utilize os métodos call e apply para modificar o valor de `this`. Crie seus próprios objetos para esta atividade!
+Given the function `calculateAge`, utilize the methods call and apply to modify the value of `this`. Create your own objects for this exercise!
 
 ```js
-function calculaIdade(anos) {
-	return `Daqui a ${anos} anos, ${this.nome} terá ${
-		this.idade + anos
-	} anos de idade.`;
+function calculateAge(years) {
+	return `In ${years} years, ${this.name} will be ${
+		this.years + years
+	} years old.`;
 }
 ```
 
-# Créditos
+# Credits
 
 [Stebsnusch](https://github.com/stebsnusch/basecamp-javascript/tree/main/funcoes)

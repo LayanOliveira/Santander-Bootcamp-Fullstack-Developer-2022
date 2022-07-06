@@ -1,3 +1,3 @@
-# Introdução ao JavaScript
+# Introduction to JavaScript
 
-Conceitos básicos do JavaScript implementados no exercícios da Aula 03, onde crio um contador que ``adiciona ou subtrai 1`` ao clicar nos respectivos botões, ``mudando de cor`` para indicar números ``positivos`` e ``negativos``, com um limite de ``+10`` e ``-10``
+Basic JavaScript concepts implemented on the third exercise, where I create a counter that ``sums or subtracts 1`` on a button click, it ``changes color`` to diferenciate ``positive`` from ``negative`` numbers, with a limit of ``+10`` and ``-10``
