@@ -1,19 +1,17 @@
 # Map, Filter e Reduce
 
-Este repositório contém a atividade prática do Curso "Map, Filter e Reduce", que faz parte do Basecamp de JavaScript ministrado pela Stephany Nusch na plataforma [Digital Innovation One](https://digitalinnovation.one/).
-
-## Atividades
+## Tasks
 
 ### Map
-- Pratique a sintaxe de multiplicação de números, uma vez utilizando o parâmetro `this` de um objeto criado por você, e depois sem ele.
+- Practice the number multiplying syntax, once using the parameter `this` of an object created by you, and then without it.
 
 ### Filter
-- Filtre e retorne todos os números pares de um array.
+- Filter and return all even numbers in an array.
 
 ### Reduce
-1. Some todos os números de um array
-2. Crie uma função que recebe uma lista de preços e um número representando o saldo disponível. Calcule qual será o saldo final após subtrair todos os preços da lista enviada.
+1. Sum all numbers from an array
+2. Make a function that receives a list of prices and a number representing the total available balance. 3. Calculate the final balance after subtracting the value of every item in the list.
 
-# Créditos
+# Credits
 
 [Stebsnusch](https://github.com/LayanOliveira/basecamp-javascript/tree/main/map-filter-reduce)
