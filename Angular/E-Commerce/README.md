@@ -1,5 +1,7 @@
 # ECommerce
 
+This project uses an [API](https://github.com/LayanOliveira/Santander-Bootcamp-Fullstack-Developer-2022/tree/main/Angular/E-commerce-API) to get the items.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
 ## Development server
