@@ -1,6 +1,4 @@
-package first.intellij;
-
-import first.intellij.Model.Cat;
+import testing.model.Cat;
 
 public class FirstProgram {
     public static void main(String[] args) {
